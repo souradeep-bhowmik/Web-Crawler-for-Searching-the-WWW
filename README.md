@@ -1,4 +1,4 @@
-# searchingInWorldWideWeb
+# webSearchEngineSimulation
 __Date of Project:__ November 2019
 
 This project was developed to help me understand searching algorithms in greater depth and also I've tried to relate it with the real-world by using this to navigate a live (Iowa State University Computer Science) website while using the default page as the start node and then navigating to a goal node (privacy policy webpage). For the Best First Search and Beam search algorithms the heuristic used is a concatenation of number of "PRIVACY" words times 5 and number of "POLICY" words times 5 in a webpage. The heuristic is simplistic, but can be refined further to incorporate very accurate and faster search results.
